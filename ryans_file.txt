@@ -1,1 +1,2 @@
-ntering seome text here for testing
+entering seome text here for testing
+second test to test out auto credentials
